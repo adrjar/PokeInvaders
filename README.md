@@ -1,6 +1,4 @@
 # PokeInvaders
-PokeInvaders
-
 Projekt Programowanie Obiektowe
 A.N i J.P
 
